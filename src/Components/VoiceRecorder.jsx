@@ -95,8 +95,8 @@ export default function VoiceAssistant() {
   };
 
   return (
-    <div className="max-w-[450px] my-10 mx-auto p-6 rounded-2xl bg-white shadow-[0_8px_30px_rgba(0,0,0,0.08)] text-center font-sans">
-      <h2 className="text-2xl font-bold mb-6 text-gray-800">AI Voice Assistant</h2>
+    <div className="my-10 mx-auto p-6 rounded-2xl bg-white shadow-[0_8px_30px_rgba(0,0,0,0.08)] text-center font-sans w-1/2">
+      <h2 className="font-bold mb-6 text-gray-800">AI Voice Assistant</h2>
 
       <div className="mb-6">
         <div
